@@ -87,7 +87,8 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 
-![Alt text](images/4.png)
+ ![4 (1)](https://github.com/user-attachments/assets/46dd6cd4-c5b7-4314-8d65-b1fb4753ade5)
+
 
 
 # RESULT:
